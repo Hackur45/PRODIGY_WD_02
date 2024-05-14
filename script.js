@@ -1,6 +1,7 @@
 let startTime, updatedTime, difference, tInterval, running = false;
 let savedTime = 0, hours = 0, minutes = 0, seconds = 0, milliseconds = 0;
 
+
 const startButton = document.getElementById('start');
 const stopButton = document.getElementById('stop');
 const resetButton = document.getElementById('reset');
