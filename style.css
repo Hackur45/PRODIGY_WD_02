@@ -21,6 +21,7 @@ body{
     background-color:#f7f7f7;
 }
 
+
 #stopwatch-container{
     background-color: rgba(138, 43, 226, 0.7); /* Adjust the alpha value (0.5 for 50% opacity) */
     height: 100%;
@@ -144,4 +145,9 @@ footer{
     font-family: 'Poppins',sans-serif;
     color: white;
     background-color: black;
+}
+
+footer>a{
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins';
 }
